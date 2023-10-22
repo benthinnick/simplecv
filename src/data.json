@@ -1,0 +1,54 @@
+{
+    "name": "Audrey Murphy",
+    "dateOfBirth": "1970-01-01",
+    "nationality": "English",
+    "contacts": {
+        "tel": "555.555.555",
+        "address": "City, State",
+        "email": "youremail@gmail.com"
+    },
+    "education": [
+        {
+            "school": "Your University",
+            "startYear": 2011,
+            "endYear": 2015,
+            "degree": "Degree Type",
+            "specialty": "Major"
+        }
+    ],
+    "workExperience": [
+        {
+            "position": "Position Title Here",
+            "company": "Company",
+            "startDate": "Date",
+            "endDate": "Date",
+            "location": "City, State",
+            "tasks": [
+                "Task1",
+                "Task2",
+                "Task3"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "skillType": "Professional Skills",
+            "skills": [
+                "Microsoft Office",
+                "Excel",
+                "Outlook",
+                "PowerPoint",
+                "Photoshop",
+                "After Effects",
+                "Premiere Pro"
+            ]
+        }
+    ],
+    "achievements": [
+        {
+            "description": "Awards or achievements, or honors",
+            "location": "City, State",
+            "date": 2008
+        }
+    ]
+}
